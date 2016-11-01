@@ -34,15 +34,11 @@ So what do you need to do for this extension:
 
 -check if you have enough time from your provider to run this program, normally it runs in 1-2 minutes but if your server is slow it can take up to 10 minutes
 
--create the directory var/wfc by yourself
-
--protect the directory /var/wfc with a user/password
-
--download .zip file and unpack
-
--copy contents to your Magento root directory (where you see directory /app)
-
--clear cache (and mostly logoff and login admin again) and reindex
+- create the directory var/wfc by yourself
+- protect the directory /var/wfc with a user/password
+- download .zip file and unpack
+- copy contents to your Magento root directory (where you see directory /app)
+- clear cache (and mostly logoff and login admin again) and reindex
 
 Extension support:
 
