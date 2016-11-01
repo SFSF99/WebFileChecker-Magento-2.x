@@ -2,7 +2,7 @@
 
 WebFileChecker extension / module for Magento-2.x / tool / checks detects modified / hacked files / configuration
 
-(see link later, process adding extension to Magento 2.x takes some time)
+(see link later, the process for adding an extension to Magento 2.x takes some time)
 
 E.g. why is there an error suddenly, has somebody files modified / hacked or was there an update from outside, what has a programmer / supplier modified, have you been hacked etc. Solution a Web File Checker / Detector or a Web Hacked Checker / Detector. Check your webstore on or detect modifications and configuration settings. Magento 1.x has about 15.000 files and 5000 directories, in Magento 2.x even more ..
 
