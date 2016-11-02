@@ -36,7 +36,7 @@ So what do you need to do for this extension:
 - protect the directory /var/wfc with a user/password
 - download .zip file and unpack
 - copy contents to your Magento root directory (where you see directory /app)
-- clear cache (and mostly logoff and login admin again) and reindex
+- SSH: bin/magento setup:upgrade, deploy:mode:set ..., cache:flush, indexer:reindex, setup:static-content:deploy
 
 Extension support:
 
