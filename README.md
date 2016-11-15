@@ -16,15 +16,15 @@ If modified you will receive a report per email, otherwise an empty email with s
 
 So you can check always what have been modified (by someone or an update) e.g. to solve errors.
 
-This program can also be called in between from the browser with {url}/index.php/{admin}/webfilechecker/index (if your provider gives you enought time, if you have Scheduler you may start a cronjob immediately).
+This program can also be called in between from the browser with {url}/index.php/{admin}/webfilechecker/index (if your provider gives you enough time, if you have Scheduler you may start a cronjob immediately).
 
 In the protected /var/wfc directory you can find the WebFileChecker log with modifications on date. Or e.g. to clean this log after a long period.
 
-Or press the button to view immeditely your modifications log (or {url}/index.php/{admin}/webfilechecker/view).
+Or press the button to view immediately your modifications log (or {url}/index.php/{admin}/webfilechecker/view).
 
 If you create a backup from these few files and later restore, you can determine the changes always again since your last backup! There are only 3 files in the protected /var/wfc directory: 1) ooa_wfc_ref.log (reference log files) 2) ooa_wfc_ref_conf.log (reference log configuration variables) 3) ooa_wfc_mod.log (changes compared to both reference logs). Through restoring 1) and 2) changes can be determined again. If you for example have been hacked, you can easily see which files have been modified!
 
-PLease don't touch the reference logs, these logs are necessary for comparisations in a next run.
+Please don't touch the reference logs, these logs are necessary for comparisons in a next run.
 
 Languages Dutch and English.
 
