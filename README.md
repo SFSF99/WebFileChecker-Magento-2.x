@@ -2,7 +2,7 @@
 
 WebFileChecker extension / module for Magento-2.x / tool / checks detects modified / hacked files / configuration
 
-(questions at <a href="http://ooawebstore.freeforums.org/">Magento Forum</a>, the process for adding a free extension to Magento Marketplace takes to much time for me)
+(questions at <a href="https://ooawebstore.freeforums.org/">Magento Forum</a>, the process for adding a free extension to Magento Marketplace takes to much time for me)
 
 (more info about this module in <a href="https://www.ooawebstore.eu">webstore</a>)
 
